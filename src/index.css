@@ -51,6 +51,26 @@ p {
     width: 317px;
 }
 
+/* Icons */
+.fa-brands {
+    font-size: 35px;
+    color: #918E9B;
+}
+
+.fa-envelope {
+    color: #1E1F26;
+}
+
+.fa-linkedin {
+    font-size: 0.8rem;
+    color: inherit;
+}
+
+.fa-envelope,
+.fa-linkedin {
+    margin-right: 0.5em;    
+}
+
 /* Buttons */
 .btn {
     width: 130px;
@@ -85,6 +105,16 @@ p {
     margin-top: 2.5em;
 }
 
-section {
+.interests-section {
     margin-top: 1em;
+    margin-bottom: 2em;
+}
+
+footer {
+    height: 64px;
+    background-color: #161619;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
 }

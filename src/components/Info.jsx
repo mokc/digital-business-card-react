@@ -8,8 +8,14 @@ function Info() {
                     <h2 className='title'>Fullstack Engineer</h2>
                     <h3>cm.cherylmok@gmail.com</h3>
                     <div className='btn-container'>
-                        <button className='btn'>Email</button>
-                        <button className='btn linkedin-btn'>LinkedIn</button>
+                        <button className='btn'>
+                            <i class="fa-solid fa-envelope"></i>
+                            Email
+                        </button>
+                        <button className='btn linkedin-btn'>
+                            <i class="fa-brands fa-linkedin"></i>
+                            LinkedIn
+                        </button>
                     </div>
                 </div>
             </header>

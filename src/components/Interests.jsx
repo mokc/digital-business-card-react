@@ -1,6 +1,6 @@
 function Interests() {
     return (
-        <section>
+        <section className='interests-section'>
             <h2>Interests</h2>
             <p>
                 Food expert. Climber. Reader. Coffee and matcha fanatic. Dog mom.
